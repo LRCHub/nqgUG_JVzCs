@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Bad To The Bone",
+  "base_artist": "George Thorogood & The Destroyers",
+  "createdAt": "2026-02-24T15:20:37.489780Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad To The Bone : Bad To The Bone",
+      "artist": "Nafe Smallz",
+      "has_synced": true,
+      "path": "select/01_Bad_To_The_Bone___Bad_To_The_Bone_Nafe_Smallz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad To The Bone",
+      "artist": "George Thoroughgood",
+      "has_synced": true,
+      "path": "select/02_Bad_To_The_Bone_George_Thoroughgood.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BAD TO THE BONE",
+      "artist": "RedBoy",
+      "has_synced": true,
+      "path": "select/03_BAD_TO_THE_BONE_RedBoy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad to the Bone",
+      "artist": "George Thorogood",
+      "has_synced": true,
+      "path": "select/04_Bad_to_the_Bone_George_Thorogood.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad  To The Bone;Bad  To The Bone",
+      "artist": "George Thorogood & The Destroyers",
+      "has_synced": true,
+      "path": "select/05_Bad_To_The_Bone;Bad_To_The_Bone_George_Thorogood_&_The_Destroyers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad to the Bone",
+      "artist": "Gotthard",
+      "has_synced": false,
+      "path": "select/06_Bad_to_the_Bone_Gotthard.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad To The Bone",
+      "artist": "Channel Zero",
+      "has_synced": true,
+      "path": "select/07_Bad_To_The_Bone_Channel_Zero.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad To the Bone",
+      "artist": "WSTR",
+      "has_synced": true,
+      "path": "select/08_Bad_To_the_Bone_WSTR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad to the Bone",
+      "artist": "Gotthard",
+      "has_synced": true,
+      "path": "select/09_Bad_to_the_Bone_Gotthard.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad To The Bone",
+      "artist": "George Thorogood",
+      "has_synced": true,
+      "path": "select/10_Bad_To_The_Bone_George_Thorogood.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad To The Bone",
+      "artist": "George Thorogood",
+      "has_synced": false,
+      "path": "select/11_Bad_To_The_Bone_George_Thorogood.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad To The Bone",
+      "artist": "George Thorogood",
+      "has_synced": true,
+      "path": "select/12_Bad_To_The_Bone_George_Thorogood.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "bad to the bone",
+      "artist": "bbno$, lentra",
+      "has_synced": true,
+      "path": "select/13_bad_to_the_bone_bbno$,_lentra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad to the Bone",
+      "artist": "Running Wild",
+      "has_synced": true,
+      "path": "select/14_Bad_to_the_Bone_Running_Wild.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad To The Bone",
+      "artist": "George Thorogood",
+      "has_synced": true,
+      "path": "select/15_Bad_To_The_Bone_George_Thorogood.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bad To The Bone",
+      "artist": "Steeler",
+      "has_synced": false,
+      "path": "select/16_Bad_To_The_Bone_Steeler.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bad to The Bone",
+      "artist": "A1 Hunna",
+      "has_synced": true,
+      "path": "select/17_Bad_to_The_Bone_A1_Hunna.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bad to the Bone",
+      "artist": "George Thorogood",
+      "has_synced": true,
+      "path": "select/18_Bad_to_the_Bone_George_Thorogood.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bad To The Bone",
+      "artist": "George Thorogood",
+      "has_synced": true,
+      "path": "select/19_Bad_To_The_Bone_George_Thorogood.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad To The Bone",
+      "artist": "George Thorogood & The Destroyers",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_To_The_Bone_George_Thorogood_&_The_Destroyers.txt"
+    }
+  ]
+}
